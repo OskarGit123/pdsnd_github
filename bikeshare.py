@@ -93,6 +93,8 @@ def load_data(city, month, day):
     df['month'] = df['Start Time'].dt.month
     df['day_of_week'] = df['Start Time'].dt.weekday_name
 
+# Same here. I rule! Best funktion EVER wirtten
+
     # filter by month if applicable
     if month != 'all':
         # use the index of the months list to get the corresponding int
