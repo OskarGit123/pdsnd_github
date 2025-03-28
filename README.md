@@ -20,3 +20,5 @@ washington.csv
 ### Credits
 To my Supporters
 
+### Additional Infos
+None
