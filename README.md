@@ -10,7 +10,12 @@ Udacity Git Assignment
 Analysis of bike share usage in 3 american cities
 
 ### Files used
-Include the files used
+the follwoing files are being ignored:
+bikeshare.py
+chicago.csv
+new_york_city.csv
+readme.txt
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
