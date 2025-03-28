@@ -7,7 +7,7 @@
 Udacity Git Assignment
 
 ### Description
-Describe what your project is about and what it does
+Analysis of bike share usage in 3 american cities
 
 ### Files used
 Include the files used
