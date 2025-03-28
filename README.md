@@ -4,7 +4,7 @@
 28.03.2025
 
 ### Project Title
-Replace the Project Title
+Udacity Git Assignment
 
 ### Description
 Describe what your project is about and what it does
