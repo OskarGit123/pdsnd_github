@@ -25,3 +25,5 @@ None
 
 ### Copyright
 None
+Change of mind on 28th of March 2025
+© 2025 OskarGit123. All rights reserved.
