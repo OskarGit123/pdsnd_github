@@ -22,3 +22,6 @@ To my Supporters
 
 ### Additional Infos
 None
+
+### Copyright
+None
